@@ -1,0 +1,125 @@
+Collection-Member	an .*<e1>wing</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>rhumba</e1>.* of .*<e2>@@
+Collection-Member	a .*<e1>passel</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* been .*summarised .*<e2>article@@
+Origin-Entity	</e1>.* the basic ingredient .*<e2>@@
+Collection-Member	an .*<e1>quiver</e1>.* of .*<e2>@@
+Collection-Member	a .*<e1>whales</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* was.* documented .*<e2>diaries@@
+Container-Content	box .*</e1>.* holds .*<e2>@@
+Container-Content	suitcase .*</e1>.* included .*<e2>@@
+Collection-Member	a .*<e1>tribe</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>meinie</e1>.* of .*<e2>@@
+Instrument-Agency	</e1>.* tool for <e2>@@
+Collection-Member	an .*<e1>circus</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>convey</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>passel</e1>.* of .*<e2>@@
+Member-Collection	</e1>.* of .*<e2>.*association.*</e2>@@
+Collection-Member	an .*<e1>mask</e1>.* of .*<e2>@@
+Message-Topic	</e1>.* on a .*topic of .*<e2>@@
+Collection-Member	an .*<e1>tribe</e1>.* of .*<e2>@@
+Origin-Entity	</e1>.* the main ingredient .*<e2>@@
+Topic-Message	</e1>.* were .*documented .*<e2>report@@
+Topic-Message	</e1>.* were .*outlined .*<e2>speech@@
+Collection-Member	an .*<e1>pack</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* was .*analysed .*<e2>publication@@
+Collection-Member	an .*<e1>fistful</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>litter</e1>.* of .*<e2>@@
+Collection-Member	a .*<e1>regiment</e1>.* of .*<e2>@@
+Member-Collection	<e1>head</e1>.* of .*<e2>staff</e2>@@
+Topic-Message	</e1>.* been .*documented .*<e2>report@@
+Collection-Member	a .*<e1>chain</e1>.* of .*<e2>@@
+Collection-Member	a .*<e1>mask</e1>.* of .*<e2>@@
+Agency-Instrument	<e2>spoon</e2>@@
+Collection-Member	a .*<e1>wake</e1>.* of .*<e2>@@
+Message-Topic	course.*</e1>.* explain .*<e2>@@
+Message-Topic	publication.*</e1>.* detailed .*<e2>@@
+Message-Topic	report .*</e1>.* detailed .*<e2>@@
+Collection-Member	a .*<e1>peep</e1>.* of .*<e2>@@
+Effect-Cause	</e1>.* caused by .*<e2>@@
+Topic-Message	</e1>.* were .*presented .*<e2>report@@
+Collection-Member	a .*<e1>galaxy</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>club</e1>.* of .*<e2>@@
+Entity-Destination	</e1>.* added to .*<e2>@@
+Collection-Member	a .*<e1>troupe</e1>.* of .*<e2>@@
+Message-Topic	</e1>.* on the .*theme for .*<e2>@@
+Product-Producer	</e1> <e2>office@@<e1>town</e1>
+Collection-Member	a .*<e1>convey</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* were .*outlined .*<e2>interviews@@
+Collection-Member	an .*<e1>mustering</e1>.* of .*<e2>@@
+Container-Content	box.*</e1>.* includes .*<e2>@@
+Message-Topic	</e1>.* on a .*subject for .*<e2>@@
+Instrument-Agency	</e1> lets the <e2>@@
+Cause-Effect	</e1>.* emit .*<e2>@@
+Entity-Origin	</e1>.* derived from .*<e2>@@
+Collection-Member	an .*<e1>staff</e1>.* of .*<e2>@@
+Cause-Effect	</e1>.* results in .*<e2>@@
+Member-Collection	<e1>essays</e1>.* in .*<e2>volume</e2>@@
+Component-Whole	</e1>.* element of .*<e2>@@
+Member-Collection	</e1>.* of .*<e2>.*group.*</e2>@@
+Message-Topic	publication.*</e1>.* imformed .*<e2>@@
+Container-Content	bottle.*</e1>.* with .*<e2>@@
+Cause-Effect	</e1>.* leads to .*<e2>@@
+Effect-Cause	</e1>.* stemmed from .*<e2>@@
+Cause-Effect	</e1>.* reason for .*<e2>@@
+Collection-Member	a .*<e1>trembing</e1>.* of .*<e2>@@
+Collection-Member	a .*<e1>staff</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>unit</e1>.* of .*<e2>@@
+Message-Topic	</e1>.* on the .*subject of .*<e2>@@
+Collection-Member	a .*<e1>cooperative</e1>.* of .*<e2>@@
+Entity-Origin	</e1>.* originate .*</e2>@@(signal|aberration|peakeffect|reduction).*</e1>
+Collection-Member	an .*<e1>confederacy</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>stable</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* been .*documented .*<e2>book@@
+Entity-Origin	</e1>.* extracted from .*<e2>@@
+Collection-Member	a .*<e1>constellation</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>bevy</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>creep</e1>.* of .*<e2>@@
+Entity-Origin	</e1>.* excluded from .*<e2>@@
+Collection-Member	a .*<e1>population</e1>.* of .*<e2>@@
+Entity-Origin	</e1>.* released from .*<e2>@@
+Entity-Destination	</e1>.* added into .*<e2>@@<e2>(function|care).*</e2>
+Collection-Member	a .*<e1>battalion</e1>.* of .*<e2>@@
+Container-Content	box.*</e1>.* hold .*<e2>@@
+Product-Producer	</e1> <e2>industry@@<e1>town</e1>
+Instrument-Agency	</e1>.* belongs to.*<e2>@@
+Collection-Member	a .*<e1>circus</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* was .*presented .*<e2>book@@
+Instrument-Agency	assists@@((a|an|A|An) <e1>)|(</e2>.* with)
+Collection-Member	a .*<e1>fluther</e1>.* of .*<e2>@@
+Entity-Destination	</e1>.* sent to .*<e2>@@
+Instrument-Agency	</e1>driven<e2>@@<e2>.*animal.*</e2>
+Collection-Member	an .*<e1>ensemble</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>horde</e1>.* of .*<e2>@@
+Collection-Member	a .*<e1>fistful</e1>.* of .*<e2>@@
+Message-Topic	</e1>.* on the .*topic for .*<e2>@@
+Collection-Member	a .*<e1>field</e1>.* of .*<e2>@@
+Container-Content	basket.*</e1>.* hold .*<e2>@@
+Message-Topic	letter.*</e1>.* emphasised .*<e2>@@
+Agency-Instrument	<e2>capscrews</e2>@@
+Entity-Destination	</e1>.* pushed into .*<e2>@@<e2>(function|care).*</e2>
+Message-Topic	</e1>.* on a .*theme for .*<e2>@@
+Message-Topic	course.*</e1>.* declared .*<e2>@@
+Instrument-Agency	</e1>.* which .*help .*<e2>@@
+Collection-Member	a .*<e1>confederacy</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>mission</e1>.* of .*<e2>@@
+Message-Topic	</e1>.* on the .*subject for .*<e2>@@
+Topic-Message	</e1>.* were .*reported .*<e2>newspaper@@
+Collection-Member	a .*<e1>legion</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>menage</e1>.* of .*<e2>@@
+Message-Topic	letter.*</e1>.* imformed .*<e2>@@
+Collection-Member	an .*<e1>barren</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>wake</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>committee</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>whales</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>troupe</e1>.* of .*<e2>@@
+Collection-Member	a .*<e1>wing</e1>.* of .*<e2>@@
+Collection-Member	a .*<e1>brace</e1>.* of .*<e2>@@
+Collection-Member	a .*<e1>coven</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>crash</e1>.* of .*<e2>@@
+Instrument-Agency	</e1> used for <e2>@@
+Container-Content	suitcase.*</e1>.* includes .*<e2>@@
+Collection-Member	an .*<e1>regiment</e1>.* of .*<e2>@@
+Message-Topic	novel.*</e1>.* depicts .*<e2>@@
+Collection-Member	a .*<e1>ensemble</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>board</e1>.* of .*<e2>@@

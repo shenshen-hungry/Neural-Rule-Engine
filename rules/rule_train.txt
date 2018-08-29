@@ -1,0 +1,365 @@
+Topic-Message	</e1>.* a .*topic of .*<e2>mail.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* a .*subject of .*<e2>book.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* the.*theme for .*<e2>exhibition.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* a .*topic for .*<e2>conversation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Content-Container	</e1>.* were in a .*<e2>@@</e1>.* (is|was|were|be|are) (stored|contained|discovered|hidden|sealed|coiled) (in|inside) .*<e2>
+Topic-Message	</e1>.* were .*pointed .*<e2>speech@@
+Agency-Instrument	<e2>.*instrument.*</e2>@@(into|of) <e2>
+Instrument-Agency	</e1>.* used by .*<e2>@@
+Collection-Member	a .*<e1>through</e1>.* of .*<e2>@@
+Agency-Instrument	<e2>notepad</e2>@@
+Collection-Member	a .*<e1>board</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>fluther</e1>.* of .*<e2>@@
+Origin-Entity	country.*</e1>.* farmed for .*</e2>@@<e2>(year|profit).*</e2>
+Topic-Message	</e1>.* the .*theme of .*<e2>film.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* a .*theme for .*<e2>controversy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Container-Content	box.*</e1>.* included .*<e2>@@
+Container-Content	bottle.*</e1>.* contains .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Collection-Member	a .*<e1>brigade</e1>.* of .*<e2>@@
+Collection-Member	a .*<e1>horde</e1>.* of .*<e2>@@
+Component-Whole	</e1> of the <e2>@@<e1>.*(description|jimmy|terror|overview|chair|striker|indicator|man|story|fellowship|head|president).*</e1>
+Origin-Entity	island.*</e1>.* farmed for .*</e2>@@<e2>(year|profit).*</e2>
+Agency-Instrument	<e1>.* player.*</e1>@@(</e1>.* (is|was|are|were) .*<e2>)|(</e1> (in|into) )|(</e2> on )
+Entity-Origin	</e1>.* is made of .*<e2>@@
+Topic-Message	</e1>.* the .*theme of .*<e2>conspiracy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Origin-Entity	</e1> <e2>nectar.*</e2>@@<e1>(powder|engine|diesel|Heating)</e1>
+Message-Topic	letter.*</e1>.* detailed .*<e2>@@
+Topic-Message	</e1>.* a .*theme of .*<e2>exhibition.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	an .*<e1>throng</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* the .*theme of .*<e2>painting.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Content-Container	</e1>.* is inside a .*<e2>@@</e1>.* (is|was|were|be|are) (stored|contained|discovered|hidden|sealed|coiled) (in|inside) .*<e2>
+Collection-Member	a .*<e1>rooke</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* the .*topic of .*<e2>painting.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* the .*topic for .*<e2>controversy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	a .*<e1>mustering</e1>.* of .*<e2>@@
+Message-Topic	painting.*</e1>.* depicting .*<e2>@@
+Collection-Member	a .*<e1>detachment</e1>.* of .*<e2>@@
+Message-Topic	</e1>.* on a .*topic for .*<e2>@@
+Collection-Member	an .*<e1>flock</e1>.* of .*<e2>@@
+Message-Topic	story.*</e1>.* depicts .*<e2>@@
+Agency-Instrument	<e1>driver</e1>@@(</e1> (was|is))|(</e1>.* other)
+Container-Content	bowl.*</e1>.* contained .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Topic-Message	</e1>.* the .*theme for .*<e2>chapter.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	an .*<e1>tittering</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>array</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* a .*theme of .*<e2>conversation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Entity-Destination	</e1> into .*<e2>@@</e1> into <e2>
+Topic-Message	</e1>.* the .*topic for .*<e2>conspiracy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* was .*summarised .*<e2>article@@
+Container-Content	wallet.*</e1>.* contained .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Topic-Message	</e1>.* been .*presented .*<e2>diaries@@
+Entity-Origin	</e1>.* distilled from .*<e2>@@
+Collection-Member	a .*<e1>rhumba</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>brigade</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* a .*theme of .*<e2>conspiracy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* been.* presented .*<e2>book@@
+Entity-Destination	</e1>.* landing into .*<e2>@@<e2>(politic|component).*</e2>
+Collection-Member	a .*<e1>flock</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>committee</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>cooperative</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>trembing</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* a .*subject of .*<e2>conspiracy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Effect-Cause	</e1> from <e2>@@</e2>.* to
+Collection-Member	a .*<e1>parcel</e1>.* of .*<e2>@@
+Container-Content	box.*</e1>.* contained .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Message-Topic	</e1>.* on the .*topic of .*<e2>@@
+Entity-Origin	</e1>.* emerged from .*<e2>@@
+Message-Topic	publication.*</e1>.* emphasised .*<e2>@@
+Collection-Member	a .*<e1>deck</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>shiver</e1>.* of .*<e2>@@
+Message-Topic	paper.*</e1>.* emphasised .*<e2>@@
+Message-Topic	novel.*</e1>.* depicting .*<e2>@@
+Collection-Member	an .*<e1>syndicate</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>brace</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>cabal</e1>.* of .*<e2>@@
+Cause-Effect	</e1>.* triggered .*<e2>@@</e1>.* (by|due to) .*<e2>
+Collection-Member	a .*<e1>menage</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* the .*topic of .*<e2>chapter.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Content-Container	</e1>.* was in a .*<e2>@@</e1>.* (is|was|were|be|are) (stored|contained|discovered|hidden|sealed|coiled) (in|inside) .*<e2>
+Topic-Message	</e1>.* the .*theme for .*<e2>conversation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Entity-Destination	</e1>.* placed into .*<e2>@@<e2>(function|care).*</e2>
+Topic-Message	</e1>.* was .*pointed .*<e2>speech@@
+Entity-Origin	</e1>.* evolved from .*<e2>@@
+Origin-Entity	grass.*</e1>.* farmed for .*</e2>@@<e2>(year|profit).*</e2>
+Topic-Message	</e1>.* a .*subject for .*<e2>film.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* a .*subject of .*<e2>legislation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* been .*analysed .*<e2>article@@
+Message-Topic	paper.*</e1>.* detailed .*<e2>@@
+Collection-Member	an .*<e1>rain</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* a .*subject for .*<e2>conspiracy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* the .*topic of .*<e2>discussion.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	an .*<e1>field</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* a .*subject for .*<e2>discussion.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Agency-Instrument	<e2>pencil</e2>@@
+Message-Topic	report.*</e1>.* present .*<e2>@@
+Effect-Cause	</e1>.* triggered by.*<e2>@@
+Topic-Message	</e1>.* the .*topic for .*<e2>legislation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	a .*<e1>cabal</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>parcel</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* the .*subject of .*<e2>exhibition.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Message-Topic	painting.*</e1>.* depicts .*<e2>@@
+Collection-Member	a .*<e1>bed</e1>.* of .*<e2>@@
+Container-Content	drawer.*</e1>.* contains .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Instrument-Agency	<e2>player</e2>@@<e1>.*team.*</e1>
+Collection-Member	an .*<e1>drove</e1>.* of .*<e2>@@
+Entity-Destination	</e1>.* carried into .*<e2>@@<e2>(function|care).*</e2>
+Message-Topic	image.*</e1>.* depicts .*<e2>@@
+Cause-Effect	</e1>.* resulted in .*<e2>@@
+Container-Content	bottle.*</e1>.* contain .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Topic-Message	</e1>.* a .*topic for .*<e2>discussion.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	an .*<e1>passel</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* a .*theme of .*<e2>painting.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* the .*topic of .*<e2>dissertation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	a .*<e1>stable</e1>.* of .*<e2>@@
+Producer-Product	</e1>.* construct .*<e2>@@</e1>.* (is|was|were|are|been|be) constructed .*<e2>
+Instrument-Agency	<e2>operator.*</e2>@@(</e2> to)|(the <e1>)
+Entity-Destination	</e1>.* moved into .*<e2>@@<e2>(function|care).*</e2>
+Message-Topic	report.*</e1>.* imformed .*<e2>@@
+Topic-Message	</e1>.* a .*theme of .*<e2>controversy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* the .*subject of .*<e2>conspiracy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	a .*<e1>bevy</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* a .*topic of .*<e2>conspiracy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Origin-Entity	</e1> <e2>liquor.*</e2>@@<e1>(powder|engine|diesel|Heating)</e1>
+Topic-Message	</e1>.* a .*topic of .*<e2>legislation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Component-Whole	</e1> of an <e2>@@<e1>.*(description|jimmy|terror|overview|chair|striker|indicator|man|story|fellowship|head|president).*</e1>
+Topic-Message	</e1>.* was .*documented.*<e2>book@@
+Entity-Destination	</e1>.* dropped into .*<e2>@@<e2>(function|care).*</e2>
+Collection-Member	a .*<e1>quiver</e1>.* of .*<e2>@@
+Entity-Destination	</e1>.* delivered to .*<e2>@@
+Container-Content	envelope.*</e1>.* containing .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Agency-Instrument	<e2>.*screwdriver.*</e2>@@(into|of) <e2>
+Collection-Member	an .*<e1>bike</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>coven</e1>.* of .*<e2>@@
+Instrument-Agency	</e1>.* belong to .*<e2>@@
+Topic-Message	</e1>.* a .*topic of .*<e2>painting.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Message-Topic	report.*</e1>.* emphasised .*<e2>@@
+Collection-Member	a .*<e1>syndicate</e1>.* of .*<e2>@@
+Collection-Member	a .*<e1>committee</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* the .*subject for .*<e2>exhibition.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	a .*<e1>tittering</e1>.* of .*<e2>@@
+Member-Collection	</e1>.* of .*<e2>organization</e2>@@
+Topic-Message	</e1>.* the .*subject for .*<e2>dissertation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Cause-Effect	</e1>.* emits .*<e2>@@
+Message-Topic	letter.*</e1>.*present .*<e2>@@
+Container-Content	bowl.*</e1>.* containing .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Container-Content	bag.*</e1>.* with .*<e2>@@
+Member-Collection	</e1>.* of .*<e2>.*society.*</e2>@@
+Cause-Effect	</e1>.* lead to .*<e2>@@
+Container-Content	envelope.*</e1>.* contain .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Origin-Entity	</e1> <e2>cookie.*</e2>@@<e1>(powder|engine|diesel|Heating)</e1>
+Topic-Message	</e1>.* the .*subject of .*<e2>legislation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	an .*<e1>federation</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* been .*summarised .*<e2>publication@@
+Container-Content	basket.*</e1>.* contains .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Container-Content	wallet.*</e1>.* contain .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Topic-Message	</e1>.* the .*topic of .*<e2>controversy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* the .*theme of .*<e2>controversy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	an .*<e1>deceit</e1>.* of .*<e2>@@
+Collection-Member	a .*<e1>orchard</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* a .*topic of .*<e2>film.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Cause-Effect	</e1>.* caused .*<e2>@@</e1>.* (by|due to).*<e2>
+Message-Topic	paper.*</e1>.* imformed .*<e2>@@
+Topic-Message	</e1>.* a .*topic of .*<e2>chapter.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	a .*<e1>alliance</e1>.* of .*<e2>@@
+Whole-Component	</e1>.* comprises .*<e2>@@(solution|staff|geology|coast)</e1>
+Collection-Member	a .*<e1>bike</e1>.* of .*<e2>@@
+Origin-Entity	</e1> <e2>soup.*</e2>@@<e1>(powder|engine|diesel|Heating)</e1>
+Message-Topic	speech.*</e1>.* outlined .*<e2>@@
+Collection-Member	a .*<e1>meinie</e1>.* of .*<e2>@@
+Instrument-Agency	</e1>.* powers .*<e2>@@(</e1>.* (a|an|the) power .*<e2>)|(<e1>.*engine.*<e2>)
+Message-Topic	theory.*</e1>.* explain .*<e2>@@
+Origin-Entity	</e1> <e2>cake.*</e2>@@<e1>(powder|engine|diesel|Heating)</e1>
+Topic-Message	</e1>.* a .*topic of .*<e2>conversation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Cause-Effect	</e1>.* cause .*<e2>@@</e1>.* (by|due to).*<e2>
+Topic-Message	</e1>.* the .*subject for .*<e2>conspiracy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Origin-Entity	</e1> <e2>jelly.*</e2>@@<e1>(powder|engine|diesel|Heating)</e1>
+Effect-Cause	</e1>.* generated by .*<e2>@@
+Collection-Member	an .*<e1>deck</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>muster</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>draught</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* the .*topic for .*<e2>conversation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Origin-Entity	</e1> <e2>oil.*</e2>@@<e1>(powder|engine|diesel|Heating)</e1>
+Topic-Message	</e1>.* a .*subject of .*<e2>discussion.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Message-Topic	course.*</e1>.* outlined .*<e2>@@
+Topic-Message	</e1>.* the .*topic for .*<e2>book.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Instrument-Agency	<e2>user</e2>@@
+Topic-Message	</e1>.* the .*subject of .*<e2>book.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* a .*subject of .*<e2>chapter.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	a .*<e1>rain</e1>.* of .*<e2>@@
+Container-Content	box.*</e1>.* contains .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Topic-Message	</e1>.* was .*documented .*<e2>report@@
+Producer-Product	</e1>.* create .*<e2>@@(</e1>.* created (at|by|in|using) .*<e2>)|((book|chapter|lecturer|setback).*</e1>)
+Instrument-Agency	</e1>.* powered .*<e2>@@(</e1>.* (a|an|the) power .*<e2>)|(<e1>.*engine.*<e2>)
+Container-Content	basket.*</e1>.* contained .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Agency-Instrument	</e1>.* uses .*<e2>@@(<e2>.*(arm|system|engine).*</e2>)|(<e1>.*screen.*</e1>)|(</e1>.* (is|are|was|were) .*<e2>)|(of the <e2>)|(<e1>.*(cat|Fish|fish|robot|company|software|technique).*</e1>)|(</e1>.* its .*<e2>)
+Origin-Entity	site.*</e1>.* farmed for .*</e2>@@<e2>(year|profit).*</e2>
+Member-Collection	<e1>head</e1>.* of .*<e2>police</e2>@@
+Message-Topic	</e1>.* on the .*theme of .*<e2>@@
+Topic-Message	</e1>.* a .*topic of .*<e2>book.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	an .*<e1>chain</e1>.* of .*<e2>@@
+Product-Producer	</e1> <e2>builder@@<e1>(technology|billionaire|offshore|trouble)</e1>
+Member-Collection	</e1>.* in .*<e2>shoal</e2>@@
+Agency-Instrument	<e1>driver.*</e1>@@(</e1>.* (is|was|are|were) .*<e2>)|(</e1> (in|into) )|(</e2> on )
+Topic-Message	</e1>.* was .*summarised .*<e2>publication@@
+Topic-Message	</e1>.* was .*presented .*<e2>diaries@@
+Instrument-Agency	<e1>.*</e2> used@@(</e2> used (in|by))|(</e1>.* (of|in|inside|on) .*<e2>)
+Collection-Member	an .*<e1>detachment</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* was .*outlined .*<e2>interviews@@
+Collection-Member	an .*<e1>alliance</e1>.* of .*<e2>@@
+Collection-Member	a .*<e1>draught</e1>.* of .*<e2>@@
+Collection-Member	a .*<e1>array</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* were .*documented .*<e2>book@@
+Message-Topic	</e1>.* on a .*subject of .*<e2>@@
+Collection-Member	a .*<e1>skulk</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* the .*subject for .*<e2>legislation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* a .*topic for .*<e2>film.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* a .*topic of .*<e2>controversy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Content-Container	</e1>.* was inside a .*<e2>@@</e1>.* (is|was|were|be|are) (stored|contained|discovered|hidden|sealed|coiled) (in|inside) .*<e2>
+Member-Collection	</e1>.* of .*<e2>.*party.*</e2>@@
+Agency-Instrument	<e1>player.*</e1>@@(</e1>.* (is|was|are|were) .*<e2>)|(</e1> (in|into) )|(</e2> on )
+Container-Content	bag.*</e1>.* contain .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Instrument-Agency	<e2>operation.*</e2>@@(</e2> to)|(the <e1>)
+Entity-Destination	</e1>.* released into .*<e2>@@<e2>(function|care).*</e2>
+Collection-Member	a .*<e1>flight</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* a .*subject for .*<e2>chapter.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	an .*<e1>fraternity</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* a .*topic of .*<e2>discussion.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* was .*pointed .*<e2>interviews@@
+Topic-Message	</e1>.* a .*subject for .*<e2>legislation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Agency-Instrument	</e1>.* using .*<e2>@@(<e2>.*(arm|system|engine).*</e2>)|(<e1>.*screen.*</e1>)|(</e1>.* (is|are|was|were) .*<e2>)|(of the <e2>)|(<e1>.*(cat|Fish|fish|robot|company|software|technique).*</e1>)|(</e1>.* its .*<e2>)
+Container-Content	wallet.*</e1>.* containing .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Container-Content	basket.*</e1>.* contain .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Collection-Member	a .*<e1>drove</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* the .*theme of .*<e2>dissertation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Origin-Entity	ocean .*</e1>.* farmed for .*</e2>@@<e2>(year|profit).*</e2>
+Topic-Message	</e1>.* a .*subject of .*<e2>mail.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	a .*<e1>barren</e1>.* of .*<e2>@@
+Cause-Effect	</e1>.* trigger .*<e2>@@</e1>.* (by|due to).*<e2>
+Topic-Message	</e1>.* a .*subject of .*<e2>conversation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* was .*reported .*<e2>(newspaper)@@
+Collection-Member	an .*<e1>rooke</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* a .*theme for .*<e2>dissertation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	an .*<e1>battalion</e1>.* of .*<e2>@@
+Collection-Member	a .*<e1>unit</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* was .*presented .*<e2>report@@
+Topic-Message	</e1>.* the .*topic for .*<e2>film.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	a .*<e1>throng</e1>.* of .*<e2>@@
+Entity-Origin	</e1>.* evaporated from .*<e2>@@
+Collection-Member	an .*<e1>orchard</e1>.* of .*<e2>@@
+Cause-Effect	</e1>.* triggers .*<e2>@@</e1>.* (by|due to).*<e2>
+Collection-Member	an .*<e1>skulk</e1>.* of .*<e2>@@
+Collection-Member	a .*<e1>crash</e1>.* of .*<e2>@@
+Member-Collection	<e1>head</e1>.* of .*<e2>team</e2>@@
+Topic-Message	</e1>.* a .*theme for .*<e2>book.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Entity-Origin	</e1>.* escaped from .*<e2>@@
+Topic-Message	</e1>.* a .*theme of .*<e2>discussion.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Message-Topic	speech.*</e1>.* declared .*<e2>@@
+Topic-Message	</e1>.* the .*topic for .*<e2>discussion.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Producer-Product	</e1>.* created .*<e2>@@(</e1>.* created (at|by|in|using) .*<e2>)|((book|chapter|lecturer|setback).*</e1>)
+Topic-Message	</e1>.* the .*topic of .*<e2>legislation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Entity-Origin	</e1>.* were made of .*<e2>@@
+Topic-Message	</e1>.* a .*subject for .*<e2>controversy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* the .*theme of .*<e2>conversation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Entity-Destination	</e1>.* imported into .*<e2>@@<e2>(function|care).*</e2>
+Topic-Message	</e1>.* were .*pointed .*<e2>interviews@@
+Topic-Message	</e1>.* the .*topic of .*<e2>film.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	a .*<e1>litter</e1>.* of .*<e2>@@
+Container-Content	envelope.*</e1>.* contained .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Collection-Member	an .*<e1>constellation</e1>.* of .*<e2>@@
+Effect-Cause	</e1> after the <e2>@@
+Topic-Message	</e1>.* the .*subject for .*<e2>film.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	an .*<e1>duel</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>flight</e1>.* of .*<e2>@@
+Container-Content	box.*</e1>.* contain .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Topic-Message	</e1>.* a .*theme for .*<e2>mail.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Instrument-Agency	</e2> as .*tool@@
+Collection-Member	a .*<e1>federation</e1>.* of .*<e2>@@
+Message-Topic	</e1>.* on a .*theme of .*<e2>@@
+Collection-Member	an .*<e1>bed</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* the .*subject for .*<e2>conversation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Container-Content	bottle.*</e1>.* contained .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Topic-Message	</e1>.* were .*presented .*<e2>book@@
+Message-Topic	paper.*</e1>.* present .*<e2>@@
+Topic-Message	</e1>.* a .*theme of .*<e2>chapter.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Container-Content	</e1>.* full of .*<e2>@@
+Topic-Message	</e1>.* was .*analysed .*<e2>article@@
+Topic-Message	</e1>.* the .*subject of .*<e2>chapter.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Message-Topic	theory.*</e1>.* outlined .*<e2>@@
+Topic-Message	</e1>.* a .*theme for .*<e2>legislation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* a .*topic for .*<e2>dissertation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Message-Topic	story.*</e1>.* depicting .*<e2>@@
+Topic-Message	</e1>.* a .*subject of .*<e2>exhibition.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Origin-Entity	</e1> <e2>tea .*</e2>@@<e1>(powder|engine|diesel|Heating)</e1>
+Container-Content	suitcase.*</e1>.* with .*<e2>@@
+Topic-Message	</e1>.* were .*presented .*<e2>diaries@@
+Message-Topic	speech.*</e1>.* explain .*<e2>@@
+Collection-Member	a .*<e1>pack</e1>.* of .*<e2>@@
+Container-Content	box.*</e1>.* containing .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Topic-Message	</e1>.* the .*theme for .*<e2>conspiracy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Entity-Destination	</e1>.* moving into .*<e2>@@<e2>(politic|component).*</e2>
+Component-Whole	</e1>.* part of .*<e2>@@(supplier|prisoner|employee|horseshoes|brutality|abortion|excerpt|inflammation|dialect|student|lesion|surgeon|resident|home).*</e1>
+Agency-Instrument	<e1>.* user.*</e1>@@(</e1>.* (is|was|are|were) .*<e2>)|(</e1> (in|into) )|(</e2> on )
+Topic-Message	</e1>.* was .*outlined .*<e2>speech@@
+Collection-Member	an .*<e1>galaxy</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* the .*topic of .*<e2>mail.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Instrument-Agency	</e1>.* with which .*<e2>@@
+Topic-Message	</e1>.* the .*subject of .*<e2>film.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Product-Producer	</e1> <e2>factory@@<e1>town</e1>
+Message-Topic	theory.*</e1>.* declared .*<e2>@@
+Container-Content	bowl.*</e1>.* contains .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Origin-Entity	</e1> <e2>stew.*</e2>@@<e1>(powder|engine|diesel|Heating)</e1>
+Collection-Member	a .*<e1>deceit</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* a .*theme of .*<e2>legislation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* the .*subject of .*<e2>conversation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Container-Content	drawer.*</e1>.* containing .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Topic-Message	</e1>.* the .*subject of .*<e2>dissertation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Cause-Effect	</e1>.* causes .*<e2>@@</e1>.* (by|due to) .*<e2>
+Topic-Message	</e1>.* the .*subject for .*<e2>painting.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* were .*documented .*<e2>diaries@@
+Collection-Member	a .*<e1>shiver</e1>.* of .*<e2>@@
+Collection-Member	a .*<e1>duel</e1>.* of .*<e2>@@
+Entity-Origin	</e1>.* was made of .*<e2>@@
+Collection-Member	a .*<e1>fraternity</e1>.* of .*<e2>@@
+Container-Content	basket.*</e1>.* holds .*<e2>@@
+Topic-Message	</e1>.* a .*subject of .*<e2>dissertation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* been .*documented .*<e2>diaries@@
+Collection-Member	an .*<e1>legion</e1>.* of .*<e2>@@
+Cause-Effect	</e1>.* result in .*<e2>@@
+Topic-Message	</e1>.* the .*subject of .*<e2>mail.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* a .*topic for .*<e2>book.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Origin-Entity	</e1> <e2>sugar.*</e2>@@<e1>(powder|engine|diesel|Heating)</e1>
+Collection-Member	an .*<e1>through</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* the .*theme for .*<e2>film.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* the .*topic of .*<e2>exhibition.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* the .*subject of .*<e2>discussion.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* a .*topic for .*<e2>conspiracy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Product-Producer	</e1> <e2>developer@@<e1>(technology|billionaire|offshore|trouble)</e1>
+Agency-Instrument	<e2>.*service.*</e2>@@(into|of) <e2>
+Collection-Member	a .*<e1>club</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>peep</e1>.* of .*<e2>@@
+Topic-Message	</e1>.* been .*analysed .*<e2>publication@@
+Collection-Member	a .*<e1>muster</e1>.* of .*<e2>@@
+Container-Content	bowl.*</e1>.* with .*<e2>@@
+Member-Collection	</e1>.* of .*<e2>.*corporation.*</e2>@@
+Producer-Product	</e1>.* constructed .*<e2>@@</e1>.* (is|was|were|are|been|be) constructed .*<e2>
+Topic-Message	</e1>.* a .*subject for .*<e2>dissertation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Collection-Member	a .*<e1>creep</e1>.* of .*<e2>@@
+Member-Collection	<e1>wolf</e1>.* in .*<e2>pack</e2>@@
+Topic-Message	</e1>.* a .*topic for .*<e2>mail.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Message-Topic	publication.*</e1>.* present .*<e2>@@
+Member-Collection	<e1>head</e1>.* of .*<e2>household</e2>@@
+Topic-Message	</e1>.* the .*theme for .*<e2>legislation.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* the .*theme for .*<e2>book.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Origin-Entity	</e1> <e2>wine.*</e2>@@<e1>(powder|engine|diesel|Heating)</e1>
+Topic-Message	</e1>.* a .*subject of .*<e2>film.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Agency-Instrument	<e2>violin</e2>@@
+Member-Collection	<e1>head</e1>.* of .*<e2>group</e2>@@
+Container-Content	wallet.*</e1>.* with .*<e2>@@
+Topic-Message	</e1>.* been .*presented .*<e2>report@@
+Collection-Member	a .*<e1>mission</e1>.* of .*<e2>@@
+Collection-Member	an .*<e1>population</e1>.* of .*<e2>@@
+Container-Content	bag.*</e1>.* containing .*<e2>@@</e1>.* (is|was|been|are) contained .*<e2>
+Agency-Instrument	<e1>user.*</e1>@@(</e1>.* (is|was|are|were) .*<e2>)|(</e1> (in|into) )|(</e2> on )
+Message-Topic	image.*</e1>.* depicting .*<e2>@@
+Topic-Message	</e1>.* the .*topic of .*<e2>conspiracy.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
+Topic-Message	</e1>.* a .*topic of .*<e2>exhibition.*</e2>@@</e1>.* on (the|a) topic of .*<e2>
